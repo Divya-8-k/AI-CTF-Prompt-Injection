@@ -111,7 +111,7 @@ Through this project, the following concepts are explored:
 
 ## 👩‍💻 Author
 
-**Dharshini A**
+**Divya K**
 
 GitHub Repository:
 
